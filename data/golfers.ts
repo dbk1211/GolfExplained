@@ -179,10 +179,10 @@ export const golfersData = [
     birthplace: 'Oslo, Norway',
     image: require('../assets/images/ViktorHovland.png'),
     headshot: require('../assets/images/ViktorHovlandHeadshot.png'),
-    pgaTourWins: 5,
+    pgaTourWins: 6,
     majorChampionshipsAmount: 0,
     majorChampionshipsList: null,
-    bio: 'A young superstar in the making and winner of the 2023 Memorial Tournament, hosted by the great Jack Nicklaus, Viktor is one of the best ball-strikers in the game. He learned to speak English growing up by watching historical films such as "Lincoln".',
+    bio: 'Viktor is a young, rising star, and one of the best ball-strikers in the game. Winning the Memorial, the BMW Championship, and the TOUR Championship in 2023, he is widely expected to win his first major in 2024. The Norwegian is also highly charistmatic and has quickly become extremely popular on tour. A little known fact is that he learned to speak English growing up by watching historical films such as "Lincoln".',
   },
   {
     id: '15',
